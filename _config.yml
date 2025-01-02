@@ -21,7 +21,7 @@ repository               : "savula13/savula13.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mich_headshot.png"
+  avatar           : "mich_headshot.JPG"
   name             : "Saipranav Avula"
   pronouns         : "he/him"  
   bio              : "Graduate Data Science Student"
