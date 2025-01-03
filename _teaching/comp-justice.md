@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/comp-justice
 venue: "University of Michigan"
-date: 2024
+date: 2024-09-01
 location: "Ann Arbor, MI"
 ---
 
