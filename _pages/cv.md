@@ -11,26 +11,31 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, University of Michigan, 2025 (expected), 3.85
-* B.S. in Computer Science, Rensselaer Polytechnic Institute, 2022, 3.76
+* M.S. in Data Science 
+  * **University of Michigan**, 2025 (expected)
+  * GPA: 3.85
+* B.S. in Computer Science
+  * **Rensselaer Polytechnic Institute**, 2022
+  * GPA: 3.76
 
 Work experience
 ======
 * April 2023 - Present: Data Scientist
-  * The MITRE Corporation
+  * **The MITRE Corporation**
   * Leveraged statistical modeling and built ML applications to inform federal decision-making
     regarding veteran's healthcare, demographic data analysis, and global national security risks.
-  * Reference: Matt Boyas
+  * Supervisor: Matt Boyas
 
 * Jan 2022 - Aug 2022: Digital Innovation Technology Co-op
-  * The Janssen Pharmaceutical Companies of Johnson & Johnson
+  * **The Janssen Pharmaceutical Companies of Johnson & Johnson**
   * Built robust data pipelines to aggregate global research grant data and enhance R&D portfolio analysis
-  * Mentor: Matt Brown
+  * Supervisor: Matt Brown
 
 * May 2020 - Aug 2020 : Undergraduate Researcher
-  * Institue for Data Exploration and Applications (IDEA)
+  * **Institue for Data Exploration and Applications (RPI IDEA)**
   * Used graph algorithms to model COVID-19 and built interactive data tools to help health officials
   implement successful testing and scheduling protocols.
+  * Supervisor: John Erickson
   
 Skills
 ======
@@ -52,7 +57,7 @@ Skills
 Teaching
 ======
 * Computing for Justice (COMPFOR 111)
-  * University of Michigan
+  * **University of Michigan**
   * Professor: Dr. Brian Miller
   * Asissted students with in-class labs, held office hours, and graded assignments relating
     to computing fundamentals, ethical cosiderations, and the history of computing.
