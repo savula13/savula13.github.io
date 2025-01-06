@@ -11,54 +11,60 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, University of Michigan, 2025 (expected), 3.85
+* B.S. in Computer Science, Rensselaer Polytechnic Institute, 2022, 3.76
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2023 - Present: Data Scientist
+  * The MITRE Corporation
+  * Leveraged statistical modeling and built ML applications to inform federal decision-making
+    regarding veteran's healthcare, demographic data analysis, and global national security risks.
+  * Reference: Matt Boyas
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2022 - Aug 2022: Digital Innovation Technology Co-op
+  * The Janssen Pharmaceutical Companies of Johnson & Johnson
+  * Built robust data pipelines to aggregate global research grant data and enhance R&D portfolio analysis
+  * Mentor: Matt Brown
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2020 - Aug 2020 : Undergraduate Researcher
+  * Institue for Data Exploration and Applications (IDEA)
+  * Used graph algorithms to model COVID-19 and built interactive data tools to help health officials
+  implement successful testing and scheduling protocols.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Classification and Regression Analysis
+* Deep Learning
+* Hypothesis Testing
+* Languages/Frameworks
+  * Python (pandas, scikit-learn, Keras)
+  * R, RShiny
+  * SQL
+  * Java, C++ (OOP)
+  * React, Node.js
+* Cloud/Dev Tools
+  * Git
+  * AWS
+  * Docker
+  * MLFlow
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Computing for Justice (COMPFOR 111)
+  * University of Michigan
+  * Professor: Dr. Brian Miller
+  * Asissted students with in-class labs, held office hours, and graded assignments relating
+    to computing fundamentals, ethical cosiderations, and the history of computing.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019-2021: Coding&&Community, Vice President
+  * Created introductory computing curriculum for middle school 
+    and high school students. 
+  * Led free in-person and remote classes and hackathons, and facilitated instructor training.
+
+* 2022: Lambda Chi Alpha, Vice President
+  * Coordinated region-wide food drive and collected 2500 lbs. of food for local food bank.
+  * Facilitated philanthropic events raising $3000 for Feeding America and other charitable organizations.
+
