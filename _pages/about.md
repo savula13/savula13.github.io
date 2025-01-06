@@ -20,13 +20,14 @@ for climate modeling, AI governance, scalable network analysis, and open source 
 <p> I am currently looking for internships for Data Scientist and Machine Learning Engineer roles for Summer 2025. If there is an opportunity for which you think 
 would be a great fit or if you want to chat about any of my interests please contact me through email or LinkedIn. <p>
 
-Some pics from recent travels!
+<p> Some pics from recent travels! <p>
 
-<img src="zion.png" width="200" height="100">
 
-<img src="llams.png" width="200" height="100">
+<img src="assets/images/zion.png" width="200" height="100">
 
-<img src="salk.png" width="200" height="100">
+<img src="assets/images/llams.png" width="200" height="100">
+
+<img src="assets/images/salk.png" width="200" height="100">
 
 
 
