@@ -9,14 +9,17 @@ main:
   #  url: /publications/
 
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
   
   - title: "CV"
     url: /cv/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Portfolio"
+    url: /portfolio/
+
+  #- title: "Projects"
+  #  url: /projects/
 
   #- title: "Teaching"
   #  url: /teaching/    
@@ -24,9 +27,6 @@ main:
   - title: "Blog"
     url: /interests/
 
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
