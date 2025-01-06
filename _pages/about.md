@@ -23,15 +23,15 @@ would be a great fit or if you want to chat about any of my interests please con
 <p> Some pics from recent travels! <p>
 
 
-<img src="images/salk.png" width="200" height="100">
+<img src="images/zion.png" width="400" height="200">
 
 <p><p>
 
-<img src="images/salk.png" width="200" height="100">
+<img src="images/llams.png" width="400" height="200">
 
 <p><p>
 
-<img src="images/salk.png" width="200" height="100">
+<img src="images/salk.png" width="400" height="200">
 
 <p><p>
 
