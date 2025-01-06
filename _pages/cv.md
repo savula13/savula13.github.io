@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science 
+* M.S. Data Science 
   * **University of Michigan**, 2025 (expected)
   * GPA: 3.85
-* B.S. in Computer Science
+* B.S. Computer Science
   * **Rensselaer Polytechnic Institute**, 2022
   * GPA: 3.76
 
@@ -35,7 +35,7 @@ Work experience
   * **Institue for Data Exploration and Applications (RPI IDEA)**
   * Used graph algorithms to model COVID-19 and built interactive data tools to help health officials
   implement successful testing and scheduling protocols.
-  * Supervisor: John Erickson
+  * Supervisor: Dr. John Erickson
   
 Skills
 ======
