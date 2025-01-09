@@ -14,31 +14,31 @@ collection: portfolio
 
 <p><p>
 
-<br/><img src="/images/full_net.png" width="400" height="200">
+<br/><img src="/images/full_net.png" width="600" height="400">
 
 <p> A toy bipartite network of corporate donors to congressional members (edges weighted by normalized contribution amounts): <p>
 
 <p><p>
 
-<br/><img src="/images/bipartite.png" width="400" height="200">
+<br/><img src="/images/bipartite.png" width="500" height="300">
 
 <p> From the bipartite network, I aimed to evaluate bill sponsorship prediction capability of the network. By leveraging **collaborative filtering**, a technique primarily used in recommender systems, I generated various one-mode projections from the bipartite network using custom node similarity schemes, such as weighted Jaccard index. <p>
 
 <p><p>
 
-<br/><img src="/images/bip_proj.png" width="400" height="200">
+<br/><img src="/images/bip_proj.png" width="600" height="400">
 
 <p> Using the projected networks, I predicted that each node (congressional member) would cosponsor legislation sponsored by their k most similar nodes. The following graph shows that when compared to a random baseline, the network information from the similarity schemes consistently improved precision at predicting which bills the congressional members would sponsor or cosponsor. <p>
 
 <p><p>
 
-<br/><img src="/images/bill_prec.png" width="400" height="200">
+<br/><img src="/images/bill_prec.png" width="600" height="400">
 
 <p> A similar method was used to predict the party affiliation for each member. The Weighted Jaccard prediction scheme vastly outperformed the random baseline and other similarity methods, achieving > 80% precision when limiting the prediction method to considering only the party of 3 most similar members.
 
 <p><p>
 
-<br/><img src="/images/party_pred.png" width="400" height="200">
+<br/><img src="/images/party_pred.png" width="600" height="400">
 
 
 
