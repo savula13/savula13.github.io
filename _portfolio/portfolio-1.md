@@ -6,11 +6,11 @@ collection: portfolio
 
 <p>In 2010, the Supreme Court's ruling in Citizens United v. Federal Election Commission removed long-held restrictions on corporate campaign contributions to political action committees (PACs). Since 2010, there has been a significant increase in political contributions as well as lobbying activity.<p>
 
-<p> While campaign finance data is accessible through information requests and bulk data requests, it is difficult to determine influence of campaign contributions on political activity by simply analyzing the data at a singular connection granularity. 
+<p> While campaign finance data is accessible through information requests and bulk data requests, it is difficult to determine influence of campaign contributions on political activity by simply analyzing the data without linking together subsidiaries and parent companies, as well as congressional members to affiliated PACs. 
 
 Therefore, I created a network of connections between congressional members, corporate donors to their politcal campaigns and affiliated PACs, corporate donations to lobbying firms, lobbying firm activity on specific bills, and congressional member sponsorship and cosponsorship of specific bills. This network was created by accessing bulk data and APIs from from OpenSecrets, the FEC, and Congress.gov.<p>
 
-<p> A visualization of the connected network for members on the House Ways and Means Committee: <p>
+<p> Below is a visualization of the connected network for members on the House Ways and Means Committee: <p>
 
 <p><p>
 
