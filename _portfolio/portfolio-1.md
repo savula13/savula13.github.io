@@ -1,6 +1,6 @@
 ---
 title: "Using Campaign Finance and Lobbying Network to Predict Congressional Political Activity"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Graduate Term Project <br/><img src='/images/full_net.png'>"
 collection: portfolio
 ---
 
