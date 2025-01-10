@@ -27,18 +27,15 @@ As a subset of the full network, I extracted the bipartite network of corporate 
  From the bipartite network, I aimed to evaluate bill sponsorship prediction capability of the network. By leveraging **collaborative filtering**, a technique primarily used in recommender systems, I generated various one-mode projections from the bipartite network using custom node similarity schemes, such as weighted Jaccard index. 
 
 
-
 <br/><img src="/images/bip_proj.png" width="600" height="400">
 
 Using the projected networks, I predicted that each node (congressional member) would cosponsor legislation sponsored by their k most similar nodes. The following graph shows that when compared to a random baseline, the network information from the similarity schemes consistently improved precision at predicting which bills the congressional members would sponsor or cosponsor.
-
 
 
 <br/><img src="/images/bill_prec.png" width="600" height="400">
 
 
 A similar method was used to predict the party affiliation for each member. The Weighted Jaccard prediction scheme vastly outperformed the random baseline and other similarity methods, achieving > 80% precision when limiting the prediction method to considering only the party of 3 most similar members.
-
 
 
 <br/><img src="/images/party_pred.png" width="600" height="400">
