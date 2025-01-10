@@ -20,7 +20,7 @@ The aim of this project was to predict the price of a given item on a Michigan h
 
 
 The above dataset includes zip codes for each hospital, which were joined with demographic data from
-[Census](https://www.census.gov/) such as % of population over 65, % of population with Health Insurance, 
+[Census](https://www.census.gov/) such as % of Population over 65, % of Population with Health Insurance, 
 and Median Income. 
 
 

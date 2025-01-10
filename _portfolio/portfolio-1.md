@@ -18,7 +18,7 @@ Below is a visualization of the connected network for members on the House Ways 
 <br/><img src="/images/full_net.png" width="600" height="400">
 
 
-As a subset of the full network, I extracted the bipartite network of corporate donors to congressional members (edges weighted by normalized contribution amounts): <p>
+As a subset of the full network, I extracted the bipartite network of corporate donors to congressional members (edges weighted by normalized contribution amounts):
 
 
 <br/><img src="/images/bipartite.png" width="500" height="300">
@@ -35,7 +35,7 @@ Using the projected networks, I predicted that each node (congressional member) 
 <br/><img src="/images/bill_prec.png" width="600" height="400">
 
 
-A similar method was used to predict the party affiliation for each member. The Weighted Jaccard prediction scheme vastly outperformed the random baseline and other similarity methods, achieving > 80% precision when limiting the prediction method to considering only the party of 3 most similar members.
+A similar method was used to predict the party affiliation for each member. The Weighted Jaccard prediction scheme vastly outperformed the random baseline and other similarity methods, achieving **> 80% precision** when limiting the prediction method to considering only the party of 3 most similar members.
 
 
 <br/><img src="/images/party_pred.png" width="600" height="400">
