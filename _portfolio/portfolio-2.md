@@ -56,7 +56,7 @@ Network had the best RMSE when predicting the price of a given item/service for 
 <br/><img src="/images/results.png" width="500" height="300">
 
 
-The neural network performed better than the basline, which provides evidence that medical 
+The Neural Network performed better than the basline, which provides evidence that medical 
 pricing is somewhat dependent on the socioeconomic factors of a hospital, the derived category of service provided,
 and the insurance company. However, the relatively high RMSE indicates that given this information,
 it is difficult to predict the exact cost incurred by patients in the Michigan healthcare system.
