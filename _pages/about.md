@@ -17,7 +17,7 @@ for climate modeling, AI governance, scalable network analysis, and open source 
 
 <p> Outside of work and school, I love traveling and trying new cuisines, playing basketball, learning music production, and backpacking in the mountains! <p>
 
-<p> I am currently looking for internships for Data Scientist and Machine Learning Engineer roles for Summer 2025. If there is an opportunity you think would be a great fit or if you want to chat about any of my interests please contact me through email or LinkedIn. <p>
+<p> I am currently looking for internships for Data Scientist and Machine Learning Engineer roles for Summer 2025. If you are looking to connect with me an opportunity or if you want to chat about any of my interests please contact me through email or LinkedIn. <p>
 
 <p> Here are some pics from my recent travels! <p>
 

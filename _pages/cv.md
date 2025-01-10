@@ -28,13 +28,13 @@ Work experience
 
 * Jan 2022 - Aug 2022: Digital Innovation Technology Co-op
   * **The Janssen Pharmaceutical Companies of Johnson & Johnson**
-  * Built robust data pipelines to aggregate global research grant data and enhance R&D portfolio analysis
+  * Built robust data pipelines to identify promising biotech investments from global research grant applications and enhance R&D portfolio analysis.
   * Supervisor: Matt Brown
 
 * May 2020 - Aug 2020 : Undergraduate Researcher
   * **Institue for Data Exploration and Applications (RPI IDEA)**
-  * Used graph algorithms to model COVID-19 and built interactive data tools to help health officials
-  implement successful testing and scheduling protocols.
+  * Used graph algorithms to model COVID-19 and built interactive data tools to aid health officials in
+  implementing successful testing and scheduling protocols.
   * Supervisor: Dr. John Erickson
   
 Skills
@@ -65,9 +65,10 @@ Teaching
 Service and leadership
 ======
 * 2019-2021: Coding&&Community, Vice President
-  * Created introductory computing curriculum for middle school 
-    and high school students. 
-  * Led free in-person and remote classes and hackathons, and facilitated instructor training.
+  * Created introductory open-source computing curriculum for underrepresented and underprivleged middle school 
+    and high school students in Web Development and Python.
+  * Led free in-person and remote classes and hackathons, and recruited and trained volunteer instructors.
+  * Partnered with local organizations to host events and raise funds for club supplies.
 
 * 2022: Lambda Chi Alpha, Vice President
   * Coordinated region-wide food drive and collected 2500 lbs. of food for local food bank.
