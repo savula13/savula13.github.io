@@ -12,7 +12,8 @@ redirect_from:
 <p> Before Michigan, I worked at The MITRE Corporation as a Data Scientist where I investigated complex public policy problems in areas
 such as healthcare, data privacy, welfare, and supply chain logistics by leveraging advanced statistical analysis and applied machine learning techniques. <p>
 
-<p> I'm passionate about building robust and equitable systems to inform data-driven decision making. My research interests include deep learning 
+<p> My academic and professional experiences have nurtured my passion for building robust and equitable systems
+to inform data-driven decision making. My current research interests include deep learning 
 for climate modeling, AI governance, scalable network analysis, and open source data provenance protocols. <p>
 
 <p> Outside of work and school, I love traveling and trying new cuisines, playing basketball, learning music production, and backpacking in the mountains! <p>

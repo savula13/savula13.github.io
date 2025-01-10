@@ -4,8 +4,8 @@ title: "Writing"
 permalink: /interests/
 author_profile: true
 redirect_from:
-  - /writing
-  - /blog
+  - /writing/
+  - /blog/
 ---
 
 Coming Soon!
