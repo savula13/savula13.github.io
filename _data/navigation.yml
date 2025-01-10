@@ -16,7 +16,7 @@ main:
   #  url: /resume/
 
   - title: "C.V."
-     url: /resume/
+    url: /resume/
 
   - title: "Projects"
     url: /portfolio/
