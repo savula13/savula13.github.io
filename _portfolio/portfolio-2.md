@@ -4,18 +4,70 @@ excerpt: "<br/><img src='/images/michigan_prices.png'>"
 collection: portfolio
 ---
 
-<p> In 2021, the Center for Medicare and Medicaid Services required hospitals to provide clear,
+In 2021, the Center for Medicare and Medicaid Services required hospitals to provide clear,
 accessible pricing information about the items and services they provide in a machine-readable
-format. <p>
-
-<p> However, many of these files - called chargemasters - are locked in difficult to parse PDFs. An online community was able 
-to crowd source data entry from these PDFs to aggregate structured datasets which included hospitals across the US, and associated
-negotiated rates for items and services with various insurance companies. <p>
+format.
 
 
-<p> For citizens and foreigners alike, insurance industry practices are opaque and hospital prices can vary dramatically in different regions of the United States. The recent publication of data provides a wealth of information which can be used as inputs with advanced ML techniques to determine if there are relationships between hospitals, insurance companies, and prices. <p>
+However, many of these files - called chargemasters - are locked in difficult to parse PDFs. An online community was able 
+to crowd source data entry from these PDFs to create structured datasets which included information about hospitals across the US and their
+negotiated rates with various insurance companies for provided items/services.
 
-<p> I aimed to evaluate models which can predict the price of a given item on a Michigan hospital’s chargemaster using data from the insurance company, the description of the item, and demographic information about the hospital’s location. <p>
+
+For citizens and foreigners alike, insurance industry practices are opaque and hospital prices can vary dramatically in different regions of the United States. The recent publication of the wealth of structured data can be used as inputs to ML models to make inferences about hospitals, insurance companies, and prices.
+
+
+The aim of this project was to predict the price of a given item on a Michigan hospital’s chargemaster using data from the insurance company (payer), the description of the item/service, and demographic information about the hospital’s location.
+
+
+<a> href = "https://www.dolthub.com/repositories/dolthub/transparency-in-pricing" target="_blank">Link to dataset</a>
+
+
+The above dataset includes zip codes for each hospital, which were joined with demographic data from
+<a> href = "https://www.census.gov/" target="_blank">Census</a> such as % over 65, % with Health Insurance, 
+and Median Income. 
+
+Below are plots of average price per item/service (averaged across hospitals in each county) in Michigan
+included in the dataset as well as median income.
+
+<br/><img src="/images/michigan_prices.png" width="600" height="400">
+
+
+<br/><img src="/images/median_income.png" width="600" height="400">
+
+
+Each item/service included a text desciption feature which were not standardly aligned across hospitals.
+I used the <a> href = "https://huggingface.co/FremyCompany/BioLORD-2023-S" target="_blank">BioLord Transformer</a>
+model to vector embed the descriptions, which were then categorized using birch clustering. 
+
+
+The transformer was particularly effective since it was trained on a medical corpus.
+
+
+Below is a T-SNE visualization of the vector embeddings:
+
+
+<br/><img src="/images/embeddings.png" width="600" height="400">
+
+
+The associated cluster was used as a feature along with the aforementioned features (demographic data, insurance company)
+as inputs to various ML models, such as a Random Forest, XGBoost, and Neural Network. In the results below, the Neural
+Network had the best RMSE when predicting the price of a given item/service for a specific insurance company.
+
+
+
+<br/><img src="/images/embeddings.png" width="600" height="400">
+
+
+The neural network performed better than the basline, which provides evidence that medical 
+pricing is somewhat dependent on the socioeconomic factors of a hospital, the derived category of service provided,
+and the insurance company. However, the relatively high RMSE indicates that given this information,
+it is difficult to predict the exact cost incurred by patients in the Michigan healthcare system.
+
+
+
+
+
 
 
 
