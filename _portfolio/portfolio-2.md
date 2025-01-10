@@ -20,11 +20,11 @@ For citizens and foreigners alike, insurance industry practices are opaque and h
 The aim of this project was to predict the price of a given item on a Michigan hospital’s chargemaster using data from the insurance company (payer), the description of the item/service, and demographic information about the hospital’s location.
 
 
-<a> href = "https://www.dolthub.com/repositories/dolthub/transparency-in-pricing" target="_blank">Link to dataset</a>
+[Link to dataset](https://www.dolthub.com/repositories/dolthub/transparency-in-pricing)
 
 
 The above dataset includes zip codes for each hospital, which were joined with demographic data from
-<a> href = "https://www.census.gov/" target="_blank">Census</a> such as % over 65, % with Health Insurance, 
+[Census](https://www.census.gov/) such as % of population over 65, % of population with Health Insurance, 
 and Median Income. 
 
 Below are plots of average price per item/service (averaged across hospitals in each county) in Michigan
@@ -37,7 +37,7 @@ included in the dataset as well as median income.
 
 
 Each item/service included a text desciption feature which were not standardly aligned across hospitals.
-I used the <a> href = "https://huggingface.co/FremyCompany/BioLORD-2023-S" target="_blank">BioLord Transformer</a>
+I used the [BioLord Transformer](https://huggingface.co/FremyCompany/BioLORD-2023-S)
 model to vector embed the descriptions, which were then categorized using birch clustering. 
 
 
