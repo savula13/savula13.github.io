@@ -1,10 +1,10 @@
 ---
 layout: archive
 #title: "CV"
-permalink: /resume/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv/
+  - /resume/
 ---
 
 {% include base_path %}
@@ -18,7 +18,7 @@ Education
   * **Rensselaer Polytechnic Institute**, 2022
   * GPA: 3.76
 
-Work experience
+Work Experience
 ======
 * April 2023 - Present: Data Scientist
   * **The MITRE Corporation**
@@ -62,7 +62,7 @@ Teaching
   * Asissted students with in-class labs, held office hours, and graded assignments relating
     to computing fundamentals, ethical cosiderations, and the history of computing.
   
-Service and leadership
+Service and Leadership
 ======
 * 2019-2021: Coding&&Community, Vice President
   * Created introductory open-source computing curriculum for underrepresented and underprivleged middle school 
