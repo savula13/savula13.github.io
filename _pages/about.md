@@ -9,7 +9,7 @@ redirect_from:
 
 <p> Hi! My name is Sai Avula, and I am a currently Data Science graduate student at the University of Michigan. <p>
 
-<p> Before Michigan, I worked at The MITRE Corporation as a Data Scientist where I investigated complex public policy problems in areas
+<p> Prior to Michigan, I worked at The MITRE Corporation as a Data Scientist where I investigated complex public policy problems in areas
 such as healthcare, data privacy, welfare, and supply chain logistics by leveraging advanced statistical analysis and applied machine learning techniques. <p>
 
 <p> My academic and professional experiences have nurtured my passion for building robust and equitable systems

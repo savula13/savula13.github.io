@@ -3,6 +3,10 @@ title: "Leveraging Graph Algorithms to Predict Congressional Political Activity 
 excerpt: "<br/><img src='/images/full_net.png'>"
 collection: portfolio
 ---
+
+[Code Repository](https://github.com/savula13/si608exploration)
+
+
 In 2010, the Supreme Court's ruling in Citizens United v. Federal Election Commission removed long-held restrictions on corporate campaign contributions to political action committees (PACs). Since 2010, there has been a significant increase in political contributions as well as lobbying activity.
 
 
