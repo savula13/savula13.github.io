@@ -18,7 +18,7 @@ Education
   * **Rensselaer Polytechnic Institute**, 2022
   * GPA: 3.76
 
-Work Experience
+Experience
 ======
 * May 2025 - Present: AI Policy Researcher
  * **U-M Ford School**
@@ -41,7 +41,7 @@ Work Experience
     regarding veteran's healthcare, demographic data analysis, and global national security risks.
   * Supervisor: Matt Boyas
 
-* Jan 2022 - Aug 2022: Digital Innovation Technology Co-op
+* Jan 2022 - Aug 2022: Software Engineer Co-op
   * **The Janssen Pharmaceutical Companies of Johnson & Johnson**
   * Built robust data pipelines to identify promising biotech investments from global research grant applications and enhance R&D portfolio analysis.
   * Supervisor: Matt Brown
