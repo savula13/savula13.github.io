@@ -20,7 +20,22 @@ Education
 
 Work Experience
 ======
-* April 2023 - Present: Data Scientist
+* May 2025 - Present: AI Policy Researcher
+ * **U-M Ford School**
+ * Co-designing equitable and responsible technology for people with disabilities and conducting advocacy work with an interdisciplinary team of computer and social scientists.
+ * Supervisor: Shobita Parthasarathy
+
+* February 2025 - Present: AI Alignment Researcher
+ * **U-M School of Information**
+ * Developing benchmarks to evaluate LLM understanding of human values using supervised fine-tuning and few-shot prompting experiments across SOTA models.
+ * Co-Researcher: Joshua Ashkinaze
+
+* January 2025 - Present: Climate ML Researcher
+ * **U-M School of Environment and Sustainability and Cooperative Institute for Great Lakes Research**
+ * Training Convulutional Gaussian Neural Processes to predict surface temperature changes and using meta-learning techniques to identify sensor placements.
+ * Supervisor: Dani Jones
+  
+* April 2023 - August 2024: Data Scientist
   * **The MITRE Corporation**
   * Leveraged statistical modeling and built ML applications to inform federal decision-making
     regarding veteran's healthcare, demographic data analysis, and global national security risks.
@@ -41,16 +56,23 @@ Skills
 ======
 * Classification and Regression Analysis
 * Deep Learning
-* Hypothesis Testing
-* Languages/Frameworks
-  * Python (pandas, scikit-learn, Keras)
+  * Graph Neural Networks
+  * Convolutional Neural Networks
+  * Time Series Analysis
+* Statistical Inference
+* NLP
+* Languages
+  * Python (scikit-learn, PyTorch, pandas, NumPy)
   * R, RShiny
   * SQL
   * Java, C++ (OOP)
-  * React, Node.js
-* Cloud/Dev Tools
+* Franeworks and Tools
   * Git
+  * React
   * AWS
+  * Xarray
+  * Zarr
+  * Linux
   * Docker
   * MLFlow
   

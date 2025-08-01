@@ -16,7 +16,7 @@ I am working with ressearchers at the Cooperative Institute for Great Lakes Rese
 DeepSensor is a package for probabilistically modeling environmental data with neural processes, to characterize Great Lakes surface temperature and to make informed suggestions for future temperature sensor locations.
 
 
-* Contributions:
+Contributions so far:
     * Built experimentation pipeline to train DeepSensor on 11 years of Great Lakes geospatial surface temperature data.
     *  Added functionality to include ice concentration data as additional context.
     * Optimized training process with efficient data chunking.
