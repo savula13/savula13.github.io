@@ -21,19 +21,19 @@ Education
 Experience
 ======
 * May 2025 - Present: AI Policy Researcher
- * **U-M Ford School**
- * Co-designing equitable and responsible technology for people with disabilities and conducting advocacy work with an interdisciplinary team of computer and social scientists.
- * Supervisor: Shobita Parthasarathy
+  * **U-M Ford School**
+  * Co-designing equitable and responsible technology for people with disabilities and conducting advocacy work with an interdisciplinary team of computer and social scientists.
+  * Supervisor: Shobita Parthasarathy
 
 * February 2025 - Present: AI Alignment Researcher
- * **U-M School of Information**
- * Developing benchmarks to evaluate LLM understanding of human values using supervised fine-tuning and few-shot prompting experiments across SOTA models.
- * Co-Researcher: Joshua Ashkinaze
+  * **U-M School of Information**
+  * Developing benchmarks to evaluate LLM understanding of human values using supervised fine-tuning and few-shot prompting experiments across SOTA models.
+  * Co-Researcher: Joshua Ashkinaze
 
 * January 2025 - Present: Climate ML Researcher
- * **U-M School of Environment and Sustainability and Cooperative Institute for Great Lakes Research**
- * Training Convulutional Gaussian Neural Processes to predict surface temperature changes and using meta-learning techniques to identify sensor placements.
- * Supervisor: Dani Jones
+  * **U-M School of Environment and Sustainability and Cooperative Institute for Great Lakes Research**
+  * Training Convulutional Gaussian Neural Processes to predict surface temperature changes and using meta-learning techniques to identify sensor placements.
+  * Supervisor: Dani Jones
   
 * April 2023 - August 2024: Data Scientist
   * **The MITRE Corporation**
@@ -46,7 +46,7 @@ Experience
   * Built robust data pipelines to identify promising biotech investments from global research grant applications and enhance R&D portfolio analysis.
   * Supervisor: Matt Brown
 
-* May 2020 - Aug 2020 : Undergraduate Researcher
+* May 2020 - Aug 2020: Undergraduate Researcher
   * **Institue for Data Exploration and Applications (RPI IDEA)**
   * Used graph algorithms to model COVID-19 and built interactive data tools to aid health officials in
   implementing successful testing and scheduling protocols.
