@@ -3,7 +3,7 @@ title: "Distillation Guard"
 collection: portfolio
 ---
 
-This project won 3rd Place at the Personalized Agents Hackathon hosted by Lightning AI and Validia!
+This project won 3rd Place at the Personalized AI Agents Hackathon hosted by Lightning AI and Validia!
 
 A real-time monitoring service that detects distillation attacks against codebase knowledge agents. Built on top of OpenClaw running a fictional NovaPay fintech engineering assistant ("Atlas").
 
@@ -14,4 +14,4 @@ OpenClaw runs Atlas (the NovaPay codebase agent). Distillation Guard runs as a s
 
 Every user prompt is classified against 7 Distillery attack categories and scored using 5 behavioral signals per session. A live dashboard streams events in real time and dynamically filters the feed by selected session.
 
-Github Link - https://github.com/savula13/distillation-guard
+[Code Repository](https://github.com/savula13/distillation-guard)
